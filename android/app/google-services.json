@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "407541343336",
+    "project_id": "love-to-chat-a2069",
+    "storage_bucket": "love-to-chat-a2069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407541343336:android:1293534aae4ddbcc26c7dd",
+        "android_client_info": {
+          "package_name": "com.example.love_to_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407541343336-6f9vks4rvpd514drg1b7kvgsph1bvdfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.love_to_chat",
+            "certificate_hash": "4c553a32e6fd64d327ae28c25a23daf0b70c6887"
+          }
+        },
+        {
+          "client_id": "407541343336-the6sapb2888h4t86k287qh37nuqpofu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkKKGISrBa0LqALY-p--_-McHzMvaRygE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407541343336-islk5omb51klacbk1tfde2hbnrfmbf5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "407541343336-hd1k178lbbvulsdt3etad259rgvpmiho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loveToChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
